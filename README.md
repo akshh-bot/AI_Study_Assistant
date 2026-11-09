@@ -5,7 +5,7 @@ A clean and secure Streamlit web application that transforms study notes and tex
 ## 🚀 Features
 
 - **PDF Text Extraction:** Seamlessly extracts text from uploaded PDF study materials using `pypdf`.
-- **Groq-Powered Intelligence:** Uses the lightning-fast `llama-3.1-8b-instant` model through the official Groq SDK for rapid content generation.
+- **Groq-Powered Intelligence:** Uses the lightning-fast `qwen/qwen3.8-27b` model through the official Groq SDK for rapid content generation.
 - **Multi-Tab Study Suite:**
   - **Summary:** Generates concise, bullet-point summaries with a one-click download option.
   - **Flashcards:** Creates expandable question-and-answer flashcards for active recall.
